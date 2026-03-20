@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Startskript für den JSSP-Gurobi-Solver.
+Startskript für den JSP-Gurobi-Solver.
 
 Diese Datei dient zum:
 - Einlesen von Kommandozeilenargumenten
