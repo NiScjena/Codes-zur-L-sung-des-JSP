@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Startskript für den Job-Shop-Scheduling-Solver mit Hexaly.
+Ausführungsskript für den JSSP-Hexaly-Solver.
 
 Diese Datei dient zum:
 - Einlesen von Kommandozeilenargumenten
