@@ -7,7 +7,7 @@ Job-Shop-Scheduling mit Hexaly.
 Dieses Modul enthält Funktionen zum:
 - Einlesen von JSPLIB-ähnlichen Instanzen
 - Erzeugen zufälliger Setupzeiten
-- Lösen des JSSP mit Hexaly
+- Lösen des JSP mit Hexaly
 - Visualisieren der Lösung als Gantt-Chart
 
 Autor: Niklas Schmitt
