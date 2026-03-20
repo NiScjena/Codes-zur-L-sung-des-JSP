@@ -7,7 +7,7 @@ Job-Shop-Scheduling mit Gurobi.
 Dieses Modul enthält Funktionen zum:
 - Einlesen von JSPLIB-ähnlichen Instanzen
 - Erzeugen zufälliger Setupzeiten
-- Lösen des JSSP als MIP mit Gurobi
+- Lösen des JSP als MIP mit Gurobi
 - Visualisieren der Lösung als Gantt-Chart
 
 Autor: Niklas Schmitt
